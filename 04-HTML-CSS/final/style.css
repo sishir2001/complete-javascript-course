@@ -21,14 +21,17 @@ h2 {
   text-align: center;
 }
 
+/* tag */
 p {
   margin-bottom: 20px;
 }
 
+/* class */
 .first {
   color: red;
 }
 
+/* id  */
 #your-name {
   background-color: rgb(255, 220, 105);
   border: 5px solid #444;
